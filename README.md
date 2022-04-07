@@ -17,8 +17,8 @@ To write a program to implement the linear regression using gradient descent.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: ASHMI S
+RegisterNumber: 212221040021 
 */
 ```
 
