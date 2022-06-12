@@ -8,23 +8,23 @@ To write a program to implement the linear regression using gradient descent.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-To implement the linear regression using the standard libraries in the python.
+1. To implement the linear regression using the standard libraries in the python.
 
-Use the .isnull() function to check the empty.
+2. Use the .isnull() function to check the empty.
 
-Use the default function.
+3. Use the default function.
 
-Open the head() function.
+4. Open the head() function.
 
-Use the loop function for a linear equation.
+5. Use the loop function for a linear equation.
 
-Predict the value for the y.
+6. Predict the value for the y.
 
-Print the program.
+7. Print the program.
 
-Plot the graph by using scatters keyword.
+8. Plot the graph by using scatters keyword.
 
-End the program.
+9. End the program.
 
 
 
